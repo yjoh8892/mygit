@@ -1,0 +1,12 @@
+---
+:id: 137772699
+:submitters:
+- :name: YOO JIN OH
+  :email: yoh56@wisc.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2022-10-01 22:40:12.170338000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2022-10-01 15:40:12.170338000 Z
+:status: processed
+:score: 11.0
